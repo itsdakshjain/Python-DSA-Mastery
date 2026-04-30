@@ -6,4 +6,4 @@ class Solution:
             last_digit = num % 10
             reverse = last_digit + (reverse*10)
             num = num // 10
-        return reverse == x
+        return reverse == x # TESTING GITHUB LEATSYNC

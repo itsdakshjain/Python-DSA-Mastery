@@ -54,4 +54,4 @@ class Solution:
                                 queue.append((target_idx, steps + 1))
                     visited_primes.add(val)
         
-        return 1
+        return -1

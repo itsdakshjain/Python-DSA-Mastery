@@ -9,4 +9,4 @@ class Solution:
             if lower in unique_chars and upper in unique_chars:
                 count += 1
                 
-        return count
+        return count # for leatsync
